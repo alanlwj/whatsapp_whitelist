@@ -1,0 +1,3 @@
+#List from https://adamnetworks.dev/pub/fwaliases/raw/master/ips/whatsapp.txt
+And I have detected 1 more IP from Whatsapp
+57.144.153.33
